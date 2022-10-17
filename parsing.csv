@@ -1,0 +1,3 @@
+CISCO ROUTER,"""Datacenter""","""192.168.1.1"""
+HP SW,Datacenter,192.168.50.1
+PALOALTO FIREWALL,Datacenter,10.0.0.1
