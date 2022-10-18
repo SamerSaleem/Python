@@ -16,4 +16,5 @@ for i in range(1, 6):
         continue
     print("Inside the loop.", i)
 print("Outside the loop.")
-#added this note in order to test Git.
+#added this note in order to test Git....
+#hello is another way to update my code and test git from vscode.
