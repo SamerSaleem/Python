@@ -1,7 +1,7 @@
 # break - example
 print("The break instruction:")
-for i in range(1, 6):
-    if i == 3:
+for i in range(1, 6000):
+    if i == 30:
         break
         continue
     print("Inside the loop.", i)
