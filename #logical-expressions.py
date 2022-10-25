@@ -13,3 +13,7 @@ print(not (var == 0))
 i = 1
 j = not not i 
 print("j is ", j)
+abc = i and j
+print(abc)
+cba = i & j 
+print(cba)
