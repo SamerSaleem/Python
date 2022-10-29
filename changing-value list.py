@@ -8,3 +8,6 @@ print("While the whole numbers list is : ", numbers)
 #change value inside a list
 numbers[4] = 111
 print('This is the updated list of numbers:', numbers)
+
+numbers[2] = numbers[1]
+print ('position 3 is now equals to position index "2" which is', numbers[2])
