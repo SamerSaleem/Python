@@ -16,10 +16,10 @@ for i in range(2):  #this 2 in the range will run the loop two times only.
 print("Step 3:", beatles)
 
 # step 4
-del beatles[3]
+del beatles[-1]
 
 print("Step 4:", beatles)
-del beatles [3]
+del beatles[-1]
 # step 5
 beatles.insert(4, 'ringo')
 print("Step 5:", beatles)
