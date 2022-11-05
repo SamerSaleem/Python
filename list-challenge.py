@@ -9,10 +9,10 @@ beatles.append('george harrison')
 print("Step 2:", beatles)
 
 # step 3
-for i in beatles:
+for i in range(2):  #this 2 in the range will run the loop two times only.
     beatles.append(input('Please enter band members: '))
-    beatles.append(input('Enter another name pls: '))
-    break
+    
+    
 print("Step 3:", beatles)
 
 # step 4
