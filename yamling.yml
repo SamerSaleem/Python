@@ -1,0 +1,29 @@
+SERVERS:
+micropod-1:
+cimc_info: {cimc_ip: 192.168.60.51}
+rack_info: {rack_id: RackW8-1}
+VM_HUGEPAGE_PERCENTAGE: 10
+micropod-2:
+cimc_info: {cimc_ip: 192.168.60.52}
+rack_info: {rack_id: RackW8-2}
+VM_HUGEPAGE_PERCENTAGE: 10
+micropod-3:
+cimc_info: {cimc_ip: 192.168.60.53}
+rack_info: {rack_id: RackW8-3}
+VM_HUGEPAGE_PERCENTAGE: 10
+compute-1:
+cimc_info: {cimc_ip: 192.168.60.54}
+rack_info: {rack_id: RackW8}
+VM_HUGEPAGE_PERCENTAGE: 94
+compute-2:
+cimc_info: {cimc_ip: 192.168.60.55}
+rack_info: {rack_id: RackW8}
+VM_HUGEPAGE_PERCENTAGE: 94
+compute-3:
+cimc_info: {cimc_ip: 192.168.60.56}
+rack_info: {rack_id: RackW8}
+VM_HUGEPAGE_PERCENTAGE: 94
+compute-4:
+cimc_info: {cimc_ip: 192.168.60.57}
+rack_info: {rack_id: RackW8}
+VM_HUGEPAGE_PERCENTAGE: 94
