@@ -17,3 +17,6 @@ print(new3)
 
 new4=my_list[:4] #this line and the next one are the same.
 print (new4)
+
+new5=my_list[2:len(my_list)]  #this means print from 3rd position to the number of the length of the list.
+print (new5)
